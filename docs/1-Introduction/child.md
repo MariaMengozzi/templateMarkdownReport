@@ -8,5 +8,5 @@ has_children: false
 
 contenuto pagina figlio
 
-<img src="img/image.png" alt="Logo"  width="220px" height="210px">
+<img src="img/image." alt="Logo"  width="220px" height="210px">
 <p align="center">image from folder</p>
